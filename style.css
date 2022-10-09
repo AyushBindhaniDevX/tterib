@@ -32,7 +32,7 @@ body {
 }
 
 .container {
-	border-radius: 25px;
+	border-radius: 15px;
 	-webkit-box-shadow: 0 0 70px -10px rgba(0, 0, 0, 0.2);
 	        box-shadow: 0 0 70px -10px rgba(0, 0, 0, 0.2);
 	background-color: #222831;
@@ -42,8 +42,8 @@ body {
 
 .weather-side {
 	position: relative;
-	height: 105%;
-	border-radius: 45px;
+	height: 100%;
+	border-radius: 25px;
 	background-image: url("https://media.tacdn.com/media/attractions-splice-spp-674x446/06/e5/be/dd.jpg");
 	width: 300px;
 	-webkit-box-shadow: 0 0 20px -10px rgba(0, 0, 0, 0.2);
